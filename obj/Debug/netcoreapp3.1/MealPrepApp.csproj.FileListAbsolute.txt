@@ -24,4 +24,3 @@ C:\Users\karlj\source\repos\MealPrepApp\obj\Debug\netcoreapp3.1\MealPrepApp.cspr
 C:\Users\karlj\source\repos\MealPrepApp\obj\Debug\netcoreapp3.1\MealPrepApp.AddMealFrom.resources
 C:\Users\karlj\source\repos\MealPrepApp\obj\Debug\netcoreapp3.1\MealPrepApp.HomePage.resources
 C:\Users\karlj\source\repos\MealPrepApp\obj\Debug\netcoreapp3.1\MealPrepApp.Properties.Resources.resources
-C:\Users\karlj\source\repos\MealPrepApp\obj\Debug\netcoreapp3.1\MealPrepApp.Form1.resources
