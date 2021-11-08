@@ -10,7 +10,7 @@ namespace MealPrepApp
 {
     public partial class Form1 : Form
     {
-        public Form()
+        public Form1()
         {
             InitializeComponent();
         }
